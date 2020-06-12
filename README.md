@@ -44,7 +44,7 @@ This module has two end points:
 ```
         {
             "name" : "Upendra",
-            "dept" : "Adobe",
+            "dept" : "Home",
             "salary": 12000
         }
 ```
